@@ -21,6 +21,7 @@ brew install mdbook
 ```
 
 Next, clone this repo and serve the book:
+After that you can run on your local machine
 
 ```sh
 git clone https://github.com/wormhole-foundation/xdapp-book.git
